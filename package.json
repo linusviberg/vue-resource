@@ -44,7 +44,7 @@
     "generate-release": "^1.1.1",
     "jasmine": "^3.3.1",
     "jasmine-core": "^3.3.0",
-    "jest": "20.0.4",
+    "jest": "24.0.0",
     "karma": "4.2.0",
     "karma-chrome-launcher": "^2.2.0",
     "karma-firefox-launcher": "^1.1.0",
